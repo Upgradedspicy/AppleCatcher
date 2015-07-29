@@ -13,6 +13,8 @@ Setting up leapmotion:
 2. Install Drivers for leapmotion.
 3. Connect to the internet in order to download latest leap.js framework.
 
+You can test the game at www.broadautomation.co.za
+
 Team: 3NiNja's
 Christopher Black
 Ryno Adlam	
