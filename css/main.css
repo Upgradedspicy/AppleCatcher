@@ -1,0 +1,11 @@
+body {margin: 0;
+	 background-color:#000;}
+	 
+div.appleSideBar{position:relative;
+			float:right;
+				  height:300px;
+				  width:200px;
+				  margin-right:100px;
+				  margin-top:20px;
+				  color:white;}	 
+		  
